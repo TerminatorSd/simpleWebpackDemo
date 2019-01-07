@@ -1,4 +1,4 @@
-# simpleWebpackDemo
+# webpackDemo
 A simple webpack demo of ES6, ESlint and Scss.
 ### install package
 > npm install
