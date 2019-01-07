@@ -1,0 +1,24 @@
+
+> webpackdemo@1.0.0 pack /Users/shaodong/myGit/webpackDemo/tsTry
+> webpack
+
+
+[at-loader] Using typescript@2.9.1 from typescript and "tsconfig.json" from /Users/shaodong/myGit/webpackDemo/tsTry/tsconfig.json.
+
+
+[at-loader] Checking started in a separate process...
+
+[at-loader] Ok, 0.011 sec.
+Hash: e70eb4825a48176b0d7b
+Version: webpack 4.10.2
+Time: 900ms
+Built at: 2018/06/05 上午8:45:55
+        Asset      Size  Chunks             Chunk Names
+    bundle.js  1.21 KiB       0  [emitted]  main
+bundle.js.map   4.8 KiB       0  [emitted]  main
+[0] ./show.ts 200 bytes {0} [built]
+[1] ./main.ts 161 bytes {0} [built]
+
+WARNING in configuration
+The 'mode' option has not been set, webpack will fallback to 'production' for this value. Set 'mode' option to 'development' or 'production' to enable defaults for each environment.
+You can also set it to 'none' to disable any default behavior. Learn more: https://webpack.js.org/concepts/mode/
